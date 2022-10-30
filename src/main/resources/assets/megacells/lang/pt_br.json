@@ -1,0 +1,69 @@
+{
+    "itemGroup.megacells": "MEGA Células",
+  
+    "item.megacells.mega_item_cell_housing": "Caixa de Célula MEGA Item",
+    "item.megacells.mega_fluid_cell_housing": "Caixa de Célula de Fluido MEGA",
+    "item.megacells.mega_chemical_cell_housing": "Caixa de Célula Química MEGA",
+    "block.megacells.mega_crafting_unit": "MEGA Unidade de Criação",
+  
+    "item.megacells.cell_component_1m": "1M MEGA Componente de Armazenamento",
+    "item.megacells.cell_component_4m": "4M MEGA Componente de Armazenamento",
+    "item.megacells.cell_component_16m": "16M MEGA Componente de Armazenamento",
+    "item.megacells.cell_component_64m": "64M MEGA Componente de Armazenamento",
+    "item.megacells.cell_component_256m": "256M MEGA Componente de Armazenamento",
+  
+    "item.megacells.item_storage_cell_1m": "1M MEGA Célula de Armazenamento de Itens",
+    "item.megacells.item_storage_cell_4m": "4M MEGA Célula de Armazenamento de Itens",
+    "item.megacells.item_storage_cell_16m": "16M MEGA Célula de Armazenamento de Itens",
+    "item.megacells.item_storage_cell_64m": "64M MEGA Célula de Armazenamento de Itens",
+    "item.megacells.item_storage_cell_256m": "256M MEGA Célula de Armazenamento de Itens",
+  
+    "item.megacells.fluid_storage_cell_1m": "1M MEGA Célula de armazenamento de fluido",
+    "item.megacells.fluid_storage_cell_4m": "4M MEGA Célula de armazenamento de fluido",
+    "item.megacells.fluid_storage_cell_16m": "16M MEGA Célula de armazenamento de fluido",
+    "item.megacells.fluid_storage_cell_64m": "64M MEGA Célula de armazenamento de fluido",
+    "item.megacells.fluid_storage_cell_256m": "256M MEGA Célula de armazenamento de fluido",
+  
+    "item.megacells.chemical_storage_cell_1m": "1M MEGA Célula de Armazenamento Químico",
+    "item.megacells.chemical_storage_cell_4m": "4M MEGA Célula de Armazenamento Químico",
+    "item.megacells.chemical_storage_cell_16m": "16M MEGA Célula de Armazenamento Químico",
+    "item.megacells.chemical_storage_cell_64m": "64M MEGA Célula de Armazenamento Químico",
+    "item.megacells.chemical_storage_cell_256m": "256M MEGA Célula de Armazenamento Químico",
+  
+    "item.megacells.bulk_cell_component": "MEGA Componente de armazenamento em massa",
+    "item.megacells.bulk_item_cell": "MEGA Célula de armazenamento de itens a granel",
+  
+    "item.megacells.radioactive_cell_component": "MEGA Componente de Armazenamento Radioativo",
+    "item.megacells.radioactive_chemical_cell": "MEGA Célula de Armazenamento Químico Radioativo",
+  
+    "item.megacells.portable_item_cell_1m": "1M Célula de item portátil",
+    "item.megacells.portable_item_cell_4m": "4M Célula de item portátil",
+    "item.megacells.portable_item_cell_16m": "16M Célula de item portátil",
+    "item.megacells.portable_item_cell_64m": "64M Célula de item portátil",
+    "item.megacells.portable_item_cell_256m": "256M Célula de item portátil",
+  
+    "item.megacells.portable_fluid_cell_1m": "1M Célula de Fluido Portátil",
+    "item.megacells.portable_fluid_cell_4m": "4M Célula de Fluido Portátil",
+    "item.megacells.portable_fluid_cell_16m": "16M Célula de Fluido Portátil",
+    "item.megacells.portable_fluid_cell_64m": "64M Célula de Fluido Portátil",
+    "item.megacells.portable_fluid_cell_256m": "256M Célula de Fluido Portátil",
+  
+    "item.megacells.portable_chemical_cell_1m": "1M Célula Química Portátil",
+    "item.megacells.portable_chemical_cell_4m": "4M Célula Química Portátil",
+    "item.megacells.portable_chemical_cell_16m": "16M Célula Química Portátil",
+    "item.megacells.portable_chemical_cell_64m": "64M Célula Química Portátil",
+    "item.megacells.portable_chemical_cell_256m": "256M Célula Química Portátil",
+  
+    "block.megacells.mega_energy_cell": "Célula de Energia Superdensa",
+  
+    "item.megacells.greater_energy_card": "Cartão de maior energia",
+  
+    "block.megacells.1m_crafting_storage": "1M MEGA Armazenamento de Artesanato",
+    "block.megacells.4m_crafting_storage": "4M MEGA Armazenamento de Artesanato",
+    "block.megacells.16m_crafting_storage": "16M MEGA Armazenamento de Artesanato",
+    "block.megacells.64m_crafting_storage": "64M MEGA Armazenamento de Artesanato",
+    "block.megacells.256m_crafting_storage": "256M MEGA Armazenamento de Artesanato",
+    "block.megacells.mega_crafting_accelerator": "MEGA Unidade de coprocessamento de criação",
+    "block.megacells.mega_crafting_monitor": "MEGA Monitor de Criação"
+  }
+  
